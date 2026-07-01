@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cai-o-u-zi-nejde-r.github.io/page-hub/sitemap.xml
